@@ -1,2 +1,4 @@
 # Andrey874_infra
-Andrey874 Infra repository
+testapp_IP = 178.154.235.24  
+
+testapp_port = 9292
