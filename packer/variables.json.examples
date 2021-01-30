@@ -1,0 +1,10 @@
+
+{
+   "folder_id": "b1gu0hd2m4f29rbdd2b7",
+   "source_image_family": "ubuntu-1604-lts",
+   "path_to_keys_file": "/home/andrey/key.json",
+   "ssh_username": "ubuntu",
+   "zone_a": "ru-central1-a",
+   "mem_value": "4" 
+}
+
