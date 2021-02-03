@@ -20,9 +20,20 @@ variable subnet_id {
   description = "Network"
 }
 variable service_account_key_file {
-  description = "~/key .json"
+  description = "~/key.json"
 }
 
 variable priv_key_path {
   description = "~/.ssh/id_rsa"
 }
+
+variable app_disk_image {
+  description = "Disk image for reddit app"
+  #default = "app_image_id"
+}
+
+variable db_disk_image {
+  description = "Disk image for reddit db"
+  #default = "db_image_id"
+}
+
