@@ -1,3 +1,4 @@
+terraform-2
 # Andrey874_infra
 testapp_IP = 178.154.235.24  
 
